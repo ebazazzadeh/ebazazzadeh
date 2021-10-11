@@ -1,10 +1,22 @@
-- 👋 Hi, I’m Elham Bazazzadeh.
-- 👀 I’m interested in learning more about full-stack developers to find a better job. Also, I'm interested in playing with my son and walking in the trail too.
-- 🌱 I’m currently learning MIS.
-- 💞️ I’m looking to collaborate on my team and Instructor. 
-- 📫 You can reach me by email(ebazazzadeh@gmail.com).
+(![developer](https://user-images.githubusercontent.com/85378466/136833324-52888a5c-825e-41f8-9cab-0d3281e504e8.jpg)
 
-<!---
-ebazazzadeh/ebazazzadeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Full Stack Web Developer with a passion for creating usable applications. The technologies I enjoy working with include HTML, CSS, JavaScript, MySQL, and Node.js.
+
+## About me
+
+After high school, I got my B.S. in Computer Software Engineering at Islamic Azad University Najaf Abad Branch. Right now, I am studying MIS at University of Phoenix. Last month I became a member of NSLS. For almost ten years, I worked as a web developer and created applications for eLearning, eForm, Workflow, Salary Management tool for Payam Noor University, and knowledge management. Also, I have experience in management and research for knowledge management.
+
+💻 My tech stack
+
+HTML, JavaScript , CSS, MYSQL, Node.js (Express.js, Inquirer.js, File System, Sequelize, MVC)
+
+⛓ My links
+
+LinkedIn: https://www.linkedin.com/in/ebazazzadeh/
+
+Portfolio: https://ebazazzadeh.github.io/ebazazzadeh/
+
+
+✉️ Get in contact with me
+
+Email: ebazazzadeh@gmail.com
