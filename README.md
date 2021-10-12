@@ -1,6 +1,6 @@
 ![developer](https://user-images.githubusercontent.com/85378466/136833324-52888a5c-825e-41f8-9cab-0d3281e504e8.jpg)
 
-I am a Full Stack Web Developer with a passion for creating usable applications. The technologies I enjoy working with include HTML, CSS, JavaScript, MySQL, and Node.js.
+I am a Full Stack Web Developer with a passion for creating usable applications. The technologies I enjoy working with include HTML, CSS, JavaScript, MySQL, and Node.js. I am a member of NSLS.
 
 ## About me
 
