@@ -12,7 +12,7 @@ HTML, JavaScript , CSS, MYSQL, Node.js (Express.js, Inquirer.js, File System, Se
 
 ⛓ My links
 
-LinkedIn: https://www.linkedin.com/in/ebazazzadeh/
+LinkedIn : www.linkedin.com/in/elham-bazazzadeh-18652916a
 
 Portfolio: https://ebazazzadeh.github.io/ebazazzadeh/
 
